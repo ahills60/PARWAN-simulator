@@ -1,0 +1,9 @@
+# Autosaves:
+*.asv
+*.m~
+
+# Compiled mex libraries
+*.mex*
+
+# In the event of Simulink
+slprj/
